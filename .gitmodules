@@ -1,0 +1,6 @@
+[submodule "lambda"]
+	path = lambda
+	url = https://github.com/xinwu-yang/gaiamount-netdisc-lambda.git
+[submodule "server"]
+	path = server
+	url = https://github.com/xinwu-yang/gaiamount-netdisc-server.git
